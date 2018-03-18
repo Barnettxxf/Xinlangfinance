@@ -13,5 +13,5 @@ LOCALCONFIG = {
     'charset': 'utf8'
 }
 
-TARGETDIR = r'C:\Users\h\Desktop\Python\Selenium_test\Xinlang_stock_spider'
+TARGETDIR = '/home/barnett/Python/Xinlangfinance/data'
 

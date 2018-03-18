@@ -3,7 +3,7 @@
 author: Barnett
 '''
 import time
-from BacthesTransfromExecl2MySQL import handler_MySQL, config_MySQL
+import handler_MySQL, config_MySQL
 import openpyxl
 import pandas as pd
 import os
